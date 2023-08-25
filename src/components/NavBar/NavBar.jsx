@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { Link } from 'react-scroll';
 import navBarConfig from './navBarConfig';
+import Portfolio_logo from './../../assets/Portfolio_Logo.png'
 
 const NavBar = () => {
   const logoText = 'Pritish';
@@ -17,7 +18,7 @@ const NavBar = () => {
     <div className='flex justify-between items-center w-full h-20 text-white bg-black px-4 fixed top-0 z-10'>
       <Link to={'home'} smooth duration={500}>
         <div className='cursor-pointer'>
-          <h1 className='text-5xl font-signature mx-2'>{logoText}</h1>
+          <img src={Portfolio_logo} alt="logo" className='w-20' />
         </div>
       </Link>
       <ul className='hidden md:flex'>
