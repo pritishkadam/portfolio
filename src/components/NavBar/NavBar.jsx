@@ -5,7 +5,6 @@ import navBarConfig from './navBarConfig';
 import Portfolio_logo from './../../assets/Portfolio_Logo.png'
 
 const NavBar = () => {
-  const logoText = 'Pritish';
   const [navMenu, setNavMenu] = useState(false);
 
   const links = navBarConfig;
