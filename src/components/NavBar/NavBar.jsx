@@ -26,7 +26,7 @@ const NavBar = () => {
             return (
               <li
                 key={id}
-                className='px-4 cursor-pointer font-medium text-gray-500 hover:scale-105 duration-200'
+                className='px-4 cursor-pointer font-medium text-white hover:scale-105 duration-200'
               >
                 <Link to={link} smooth duration={500}>
                   {text}
@@ -37,18 +37,18 @@ const NavBar = () => {
       </ul>
       <div
         onClick={handleNavToggle}
-        className='cursor-pointer pr-4 z-10 text-gray-500 md:hidden'
+        className='cursor-pointer pr-4 z-10 text-white md:hidden'
       >
         {navMenu ? <FaTimes size={25} /> : <FaBars size={25} />}
       </div>
       {navMenu && (
-        <ul className='md:hidden flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-b from-black to-gray-800 text-gray-500'>
+        <ul className='md:hidden flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-b from-black to-gray-800 text-white'>
           {links &&
             links.map(({ id, link, text }) => {
               return (
                 <li
                   key={id}
-                  className='px-4 py-6 cursor-pointer font-medium text-4xl text-gray-500 hover:scale-105 duration-200'
+                  className='px-4 py-6 cursor-pointer font-medium text-4xl text-white hover:scale-105 duration-200'
                 >
                   <Link
                     to={link}
