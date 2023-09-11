@@ -16,7 +16,7 @@ const Home = () => {
           </h2>
           <p className='text-white py-4 max-w-md'>
             I work as a full time Software Developer at Aureus Analytics. I love to work on web applications
-            and in free time, tinker with side projects.
+            and turn ideas into real life products.
           </p>
 
           <div>
