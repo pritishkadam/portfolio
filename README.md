@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Rode Clone built using HTML, React and Tailwind CSS.
 
-## Available Scripts
+## Demo Link: [Portfolio](https://pritishkadam.netlify.app/)
 
-In the project directory, you can run:
+## Screenshots
 
-### `npm start`
+#### Portfolio
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Portfolio](/Portfolio_1.png "Portfolio")
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Portfolio](/Portfolio_2.png "Portfolio")
 
-### `npm test`
+![Portfolio](/Portfolio_3.png "Portfolio")
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Portfolio](/Portfolio_4.png "Portfolio")
 
-### `npm run build`
+![Portfolio](/Portfolio_5.png "Portfolio")
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Portfolio](/Portfolio_6.png "Portfolio")
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tools/Packages Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React
+- Create React App
+- Tailwind CSS
 
-### `npm run eject`
+## Features / Sections
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Home
+- About
+- Portfolio
+- Experience
+- Contact Us
+- Fully Responsive
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- React: JS Library for building user interfaces
+- Create-React-App: A tool to create and run React projects quickly
+- Tailwind CSS: A utility first CSS framework for styling our application
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Dependencies
+| npm modules      |
+| ---------------- |
+| react            |
+| tailwind css |
 
-## Learn More
+## Getting Started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Prerequisites
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Node.js and npm should be installed on your machine
 
-### Code Splitting
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Clone the repository
 
-### Analyzing the Bundle Size
+```
+https://github.com/pritishkadam/portfolio.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+2. Change into the project directory
 
-### Making a Progressive Web App
+```
+cd portfolio
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+3. Install the dependencies
 
-### Advanced Configuration
+```
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+4. Start the development server
 
-### Deployment
+```
+npm run start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the app running.
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##### NOTE: In order to view this web application, it is essential to install the necessary external dependencies
