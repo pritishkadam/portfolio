@@ -1,6 +1,6 @@
 # Portfolio
 
-This project is a Rode Clone built using HTML, React and Tailwind CSS.
+This project is a portfolio website built using HTML, React and Tailwind CSS.
 
 ## Demo Link: [Portfolio](https://pritishkadam.netlify.app/)
 
