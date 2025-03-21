@@ -32,7 +32,7 @@ const socialLinks = [
         MailTo <HiOutlineMail size={25} />
       </>
     ),
-    redirectTo: 'mailto:prtshkdm18@gmail.com',
+    redirectTo: 'mailto:pritishkadam02@gmail.com',
   },
   {
     id: 4,

@@ -14,10 +14,7 @@ const About = () => {
         </div>
         <p className='text-lg mt-20'>
           Hi, I'm Pritish Kadam, from Mumbai, India. I have completed my Masters
-          in Computer Application from University of Mumbai. I have a working
-          experience of more than 4 years. Currently, I'm working as a
-          UI Engineer in a Product Based Company called Aureus Analytics.
-          Our product caters to the US based Insurance Agencies.
+          in Computer Application from University of Mumbai. Skilled Senior UI Engineer with 3 years of experience in the role and a total of 5 years in software industry. Specialized in building dynamic and responsive UIs using React, Node.js, and Express.js and with a proven ability to deliver high-quality solutions in fast-paced environments.
         </p>
         <br />
         <p className='text-lg mb-20'>

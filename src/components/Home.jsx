@@ -15,7 +15,7 @@ const Home = () => {
             The Developer Next Door
           </h2>
           <p className='text-white py-4 max-w-md'>
-            I work as a full time Software Developer at Aureus Analytics. I love to work on web applications
+            I work as a full time Senior UI Engineer at SIAA. I love to work on web applications
             and turn ideas into real life products.
           </p>
 

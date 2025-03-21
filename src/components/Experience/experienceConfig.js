@@ -36,7 +36,7 @@ const experienceConfig = [
   {
     id: 5,
     src: REACT,
-    title: 'REACT',
+    title: 'REACT JS',
     style: 'shadow-[#00d7fe]',
   },
   {
